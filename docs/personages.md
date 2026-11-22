@@ -1,11 +1,10 @@
 # Personages
 
-De belangrijkste personages uit dit universum.
+De belangrijkste personages uit Grand Theft Auto VI.
 
-Vervang de drie regels met `VUL AAN` door echte personages, en vul de tabel verder aan tot ze er **minstens vijf** bevat.
+## Overzicht
 
 | Naam | Rol | Eerste verschijning |
 |---|---|---|
-| VUL AAN | VUL AAN | VUL AAN |
-| VUL AAN | VUL AAN | VUL AAN |
-| VUL AAN | VUL AAN | VUL AAN |
+| Jason Duval | Hoofdpersonage, betrokken bij criminele activiteiten in Leonida | GTA VI (2026) |
+| Lucia Caminos | Hoofdpersonage, wil na haar gevangenisstraf een beter leven opbouwen | GTA VI (2026) |

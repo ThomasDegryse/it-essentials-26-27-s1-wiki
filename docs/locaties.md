@@ -1,17 +1,15 @@
 # Locaties
 
-De plaatsen waar dit universum zich afspeelt.
+Grand Theft Auto VI speelt zich af in de fictieve Amerikaanse staat Leonida. De spelwereld is geïnspireerd op Florida en bevat verschillende steden en natuurgebieden.
 
-Vervang de voorbeelden hieronder door **minstens drie** locaties uit je eigen universum, elk met een korte beschrijving van twee tot vier zinnen.
+## Vice City
 
-## VUL AAN
+Vice City is een grote stad in Leonida, geïnspireerd op Miami. De stad staat bekend om haar stranden, nachtleven, wolkenkrabbers en neonverlichting. Vice City vormt een belangrijk decor voor het verhaal van Jason en Lucia.
 
-VUL AAN: waar ligt deze plek, wie komt er, en waarom is ze belangrijk voor het verhaal?
+## Leonida Keys
 
-## VUL AAN
+De Leonida Keys zijn een eilandengroep in het zuiden van Leonida, geïnspireerd op de Florida Keys. Het gebied bestaat uit tropische eilanden, kustwegen en kleine gemeenschappen. Jason heeft hier gewerkt voor lokale drugssmokkelaars.
 
-VUL AAN
+## Port Gellhorn
 
-## VUL AAN
-
-VUL AAN
+Port Gellhorn is een kustplaats in Leonida met een andere sfeer dan het drukke Vice City. De omgeving bevat oudere toeristische gebouwen, goedkope motels en uitgaansgelegenheden. Het is een van de locaties die spelers tijdens hun verkenning van Leonida kunnen bezoeken.
